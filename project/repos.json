@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Name": "YourWorkspace",
+    "WorkspacePath": "C:\\Path\\To\\Your\\PlasticSCM\\Workspace",
+    "GithubPath": "git@github.com:your-username/path-to-your-repo.git",
+    "Author": "Your Name",
+    "Email": "your-email@users.noreply.github.com"
+  }
+]
